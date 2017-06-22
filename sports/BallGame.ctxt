@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallGame()
+comment1.params=t1\ t2
+comment1.target=BallGame(BallTeam,\ BallTeam)
+comment2.params=
+comment2.target=boolean\ playedAlready()
+comment3.params=game
+comment3.target=boolean\ equals(BallGame)
+numComments=4

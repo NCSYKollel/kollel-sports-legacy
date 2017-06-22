@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ fileName\ h\ i\ j
+comment0.target=KollelSportsProgram(int,\ int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=bNotPlaying\ hNotPlaying\ bMatchups\ hMatchups
+comment2.target=void\ process(java.util.LinkedList,\ java.util.LinkedList,\ java.util.LinkedList,\ java.util.LinkedList)
+comment3.params=bNotPlaying\ bMatchups
+comment3.target=boolean\ doKollelBall(java.util.LinkedList,\ java.util.LinkedList)
+comment4.params=bGames\ matchups
+comment4.target=boolean\ doBSpecialMatchups(BallGame[][],\ java.util.LinkedList)
+comment5.params=hGames\ matchups
+comment5.target=void\ doHSpecialMatchups(HockeyGame[][],\ java.util.LinkedList)
+comment6.params=hNotPlaying
+comment6.target=boolean\ doKollelHockey(java.util.LinkedList)
+comment7.params=fileName
+comment7.target=void\ write(java.lang.String)
+numComments=8
